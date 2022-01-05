@@ -5,18 +5,17 @@
 
 ### Python/tkinter
 
-<br>
 It's a desktop application made in python, (also, other version from an old project)
+<br>
 You can transtate to this languages:
 
-
->EN = english
->PT = portuguese 
->SPA = spanish
->FR = french
->ZH = chinese
->JA = japanese
->KO = korean
+>EN = english <br>
+>PT = portuguese <br>
+>SPA = spanish <br>
+>FR = french <br>
+>ZH = chinese <br>
+>JA = japanese <br>
+>KO = korean <br>
 
 ### Some screenshots
 
