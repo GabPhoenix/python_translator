@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Python translator</h1>
-    <code><img src='/img/EN.png'></code>
+    <code><img src='src/img/EN.png'></code>
 </div>
 
 ### Python/tkinter
@@ -21,10 +21,10 @@ You can transtate to this languages:
 
 <div align="center">
     <p>Splash Screen</p>
-    <code><img src='/img/Screenshot1.png'></code>
+    <code><img src='src/img/Screenshot1.png'></code>
     <p>Main Screen</p>
-    <code><img src='/img/Screenshot2.png'></code>
+    <code><img src='src/img/Screenshot2.png'></code>
     <p>Work</p>
-    <code><img src='/img/Screenshot3.png'></code>
+    <code><img src='src/img/Screenshot3.png'></code>
     <p>Error handling</p>
 </div>
