@@ -27,4 +27,5 @@ You can transtate to this languages:
     <p>Work</p>
     <code><img src='src/img/Screenshot3.png'></code>
     <p>Error handling</p>
+    <code><img src='src/img/error1.png'></code>
 </div>
