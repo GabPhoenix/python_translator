@@ -5,7 +5,8 @@
 
 ### Python/tkinter
 
-It's a desktop application made in python, (Also, other version from a old project)
+<br>
+It's a desktop application made in python, (also, other version from an old project)
 You can transtate to this languages:
 
 
